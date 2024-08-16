@@ -1,0 +1,343 @@
+
+@import "/styles/recet.css";
+
+
+.page-wrapper {
+}
+.container {
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.nav {
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+       
+        font-style: normal;
+        
+
+}
+
+.li:hover {
+    color: rgb(91, 91, 133);
+    transition: 2s;
+}
+.header-bg-1 {
+    background: url(/images/main.photo.png) no-repeat center/cover;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.ul{
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+    display: flex;
+    justify-content: flex-start;
+    column-gap: 25px;
+    color: rgb(255, 255, 255);
+    font-weight: 100;
+    margin-left: 70px;
+    margin-bottom: 50px;
+    padding-top: 35px
+    
+}
+
+    @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.title1 {
+        font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight:100;
+        font-size: 50px;
+        color: aliceblue;
+        margin-bottom: 28px;
+        margin-left: 100px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.text{
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+    color: white;
+    font-weight: 100;
+    font-size: 18px;
+    margin-left: 100px;
+    flex-wrap: wrap;
+    width: 32%;
+    margin-bottom: 25px;
+    
+}
+.button1{
+    border-radius: 15px;
+    width: 140px;
+    height: 44px;
+    margin-left: 100px;
+    background: #b47b48;
+    font-size: 15px;
+    color: white;
+    border: solid transparent;
+
+}
+.square1{
+    width: 150px;
+    height: 120px;
+    color: #272727;
+    
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.cards {
+    font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+    display: flex;
+   margin-left: 18%;
+    justify-content: space-between;
+    
+    
+    
+   
+}
+.cards-item {
+    display: flex;
+    /* background: #272727; */
+    /* margin-bottom: 20px; */
+    align-items: center;
+    justify-content: space-between;
+    background: #202023;
+    padding-right: 10px;
+}
+.cards-item-photo {
+    width: 162px;
+    height: 215;
+}
+.cards-item-info {
+    color: aliceblue;
+    
+  
+}
+.cards-item-orange{
+    background-color: #EBAD51;
+}
+.cards-item-photo-price {
+    color: aliceblue;
+    font-size: 24px;
+}
+.cards-item-photo-title {
+
+
+}
+.cards-button {
+    background: #C85312;
+    color: aliceblue;
+    padding: 8px 22px;
+    font-size: 18px;
+    margin-top: 8px;
+    border: inherit;
+}
+
+.menu{
+    background: #202023;
+    padding-left: 262px;
+    padding-right: 255px;
+}
+
+.menu-title {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100;
+}
+.menu-cards {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 3px;
+    justify-content: space-between;
+    
+}
+.menu-cards-item {
+    flex-wrap: wrap;
+    width: 34%;
+    margin-bottom: 9px;
+    
+}
+h4{
+    margin: 0;
+}
+.menu-cards-item-top {
+    border: white solid 1px;
+    margin-bottom: 8px;
+    padding-left: 5px;
+}
+.menu-item {
+    text-align: center;
+    color: white;
+    font-size: 26px;
+}
+.menu-button {
+    background: #B47B48;
+    font-size: 26px;
+    margin-left: 32%;
+    color: white;
+    border: none;
+    text-transform: capitalize;
+    border-radius: 20px;
+    font-weight: 900;
+    padding: 4px 28px 6px 28px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Italiana&display=swap');
+.menu-title-2{
+    font-family: "Italiana", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+    margin-left: 700px;
+   color: rgb(255, 255, 255);
+   font-size: 60px;
+   margin-top: 20px;
+  
+
+}
+
+.menu-2 {
+    background: #202023;
+    padding-top: 100px
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Italiana&display=swap');
+.menu-title-2 {
+    font-family: "Italiana", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 39px;
+    
+
+
+}
+.menu-cards-2 {
+    display: flex;
+    flex-direction: column;
+}
+.menu-cards-item-bread {
+    margin-left: 172px;
+}
+.menu-item-photo-bread {
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+.menu-text-2 {
+    font-family: "Inter", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+    flex-wrap: wrap;
+    width: 23%;
+    font-size: 18px;
+    color: white;
+
+}
+.menu-item-photo-cookie {
+}
+.menu-item-photo-pie {
+}
+.menu-cards-item-bread {
+}
+.menu-item-photo-bread {
+}
+.menu-text-2 {
+}
+
+.menu-cards-item-cookie {
+    margin-left: 430px;
+    
+}
+.menu-item-photo-cookie {
+}
+
+.menu-cards-item-pie {
+    margin-left: 720px;
+
+}
+.menu-item-photo-pie {
+   
+}
+
+
+.bg-4{
+    background: url(/images/bg-44.jpg);
+    padding-top: 50px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Italiana&display=swap');
+.bg-title {
+    font-family: "Italiana", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: white;
+  margin-bottom: 132px;
+ 
+
+}
+.bg-cards {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.bg-photo {
+}
+.bg-text {
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+.bg-cards-items{
+    display: flex;
+    flex-direction: column;
+}
+
+.map-menu {
+    background: #202023;
+    display: flex;
+
+}
+.map-column {
+    margin-left: 150px;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Italiana&display=swap');
+.map-title {
+    font-family: "Italiana", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+    margin-bottom: 44px;
+    color: white;
+    font-size: 32px;
+}
+.photo-map {
+}
+.how-column {
+    margin-top: 180px;
+    margin-left: 210px;
+    
+
+}
+.title-how {
+}
+.how-text {
+    margin-bottom: 67px;
+}
+.when-column {
+    margin-top: 180px;
+    margin-left: 100px;
+}
+.title-when {
+}
+.when-text {
+}
+.map{
+    height: 350px;
+    width: 140%;
+   
+   
+}
+
